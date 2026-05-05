@@ -27,7 +27,7 @@ The model was evaluated on the **IRMAS** (Instrument Recognition in Musical Audi
 
 | Metric | Score | Description |
 | :--- | :--- | :--- |
-| **Top-2 Accuracy** | **86.01%** | Probability that the correct instrument is in the top 2 guesses. |
+| **Top-2 Accuracy** | **89.01%** | Probability that the correct instrument is in the top 2 guesses. |
 | **Samples F1 Score** | **0.541** | Measures how accurately the full *set* of instruments is predicted per song. |
 | **Macro F1 Score** | **0.441** | High score indicates good performance on rare instruments (e.g., Flute, Organ). |
 
